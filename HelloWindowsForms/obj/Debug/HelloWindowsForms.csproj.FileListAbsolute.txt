@@ -1,0 +1,9 @@
+C:\Work\T8L3G6\HelloWindowsForms\bin\Debug\HelloWindowsForms.exe.config
+C:\Work\T8L3G6\HelloWindowsForms\bin\Debug\HelloWindowsForms.exe
+C:\Work\T8L3G6\HelloWindowsForms\bin\Debug\HelloWindowsForms.pdb
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.csprojAssemblyReference.cache
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.Form1.resources
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.Properties.Resources.resources
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.csproj.GenerateResource.cache
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.exe
+C:\Work\T8L3G6\HelloWindowsForms\obj\Debug\HelloWindowsForms.pdb
